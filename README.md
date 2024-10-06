@@ -13,11 +13,11 @@
 - Pandas | Numpy | Scikit-learn | Seaborn | Flask | Pytorch | Tensorflow | Keras | NLTK | Matplotlib
 
 ### Machine Learning & AI:
-- Deep Learning | Machine Learning | Natural Language Processing (NLP) | Model Deployment | AR
+- Deep Learning | Machine Learning | Natural Language Processing (NLP) | Model Deployment
 
 ### Databases:
-- MySQL | NoSQL | MongoDB | Data Modelling | ETL Processes | Data Management & Transformation
-
+- MySQL | NoSQL | MongoDB
+  
 ### Analytics & Visualization:
 - Power BI | Tableau | Pivot Tables
 
